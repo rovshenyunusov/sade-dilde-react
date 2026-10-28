@@ -7,7 +7,7 @@ Hər mövzuya dörd sualla yanaşılır: **bu nədir, niyə lazımdır, pərdə 
 
 ## 📥 Yüklə
 
-**[Kitabı PDF formatında yüklə](https://github.com/rovshenyunusov/react-oyrenek/releases/latest/download/react_oyrenek_rovshan_yunusov.pdf)**
+**[Kitabı PDF formatında yüklə](https://github.com/rovshenyunusov/sade-dilde-react/releases/latest/download/react_oyrenek_rovshan_yunusov.pdf)**
 
 548 səhifə · 29 fəsil · 40 sxem · Pulsuz
 
